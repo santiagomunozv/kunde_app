@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Kunde",
+    "slug": "kunde-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F8F9"
+      },
+      "package": "com.mariomar82.kundeapp"
+    },
+    "extra": {
+      "apiBaseUrl": "http://127.0.0.1:8000/api/mobile"
+    }
+  }
+}

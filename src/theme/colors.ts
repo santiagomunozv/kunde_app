@@ -1,0 +1,25 @@
+const colors = {
+  red: "#FF0000",
+  redDeep: "#CC0000",
+  redSoft: "rgba(255,0,0,0.08)",
+  blue: "#0000FF",
+  blueMid: "#0022CC",
+  blueDeep: "#001A99",
+  blueSoft: "rgba(0,0,255,0.06)",
+  blueTint: "rgba(0,0,255,0.12)",
+  darkBlue: "#0000A8",
+  text: "#54595F",
+  ink: "#101828",
+  muted: "#667085",
+  grayMid: "#8B9099",
+  lightGray: "#F7F8F9",
+  line: "#ECEEF2",
+  white: "#FFFFFF",
+  success: "#008C5A",
+  successSoft: "#E6F7EE",
+  warning: "#D77A00",
+  warningSoft: "#FFF7E0",
+  danger: "#B00020",
+};
+
+export default colors;
